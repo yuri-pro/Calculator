@@ -1,0 +1,57 @@
+body{
+    margin: 0 auto;
+    background-image: url(img/particle_4k_3-wallpaper-2560x1440.jpg);
+    background-repeat: no-repeat;
+    
+}
+
+p{
+    font-weight: 600;
+    font-size: 26px;
+    display: inline;
+    line-height: 40px;
+    color:rgba(90, 179, 18, 0.432)
+}
+div{
+    margin: 0 auto;
+    margin-top: 300px;
+    padding: 30px;
+    box-sizing: border-box;
+    background-color: rgba(20, 20, 85, 0.479);
+    max-width: 700px;
+    border-radius: 30px;
+}
+input{
+    width: 50px;
+    margin-left: 30px;
+    border-radius: 10px;;
+}
+
+.input1{
+    margin-left: 59px;
+}
+
+button{
+    margin: 20px;
+    padding: 10px 30px;
+    background-color: rgba(8, 4, 253, 0.411);
+    font-weight: 600;
+    font-size: 30px;
+    border-radius: 40px;
+    border: 2px;
+    outline: none;   
+}
+
+button:hover{
+    background-color: rgba(128, 128, 128, 0.178);
+}
+
+.answer{
+    font-weight: 800;
+    font-size: 30px;
+    color: darkturquoise;
+}
+
+.reset{
+    color: rgba(138, 141, 128, 0.699);
+}
